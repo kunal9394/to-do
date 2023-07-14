@@ -8,8 +8,7 @@ function App(){
         <div className="todo-app">
          <TodoList/>
         </div>
-
-    );
+);
 }
 export default App;
 
